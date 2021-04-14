@@ -1,4 +1,4 @@
-import asyncio, time
+import asyncio
 from winrt.windows.media.control import \
     GlobalSystemMediaTransportControlsSessionManager as MediaManager
 
